@@ -20,10 +20,8 @@ The tech community recognises the importance of diversity and inclusion. Many or
 
 The internet is a treasure trove of free and affordable resources that cater to aspiring developers. From online coding platforms like (Freecodecamp, Scrimba, Codecademy, etc) and YouTube tutorials to open-source projects and coding challenges, there's a wealth of knowledge waiting to be tapped. Immerse yourself in these resources, and focus on building a solid foundation in programming languages and development concepts.
 
-<aside>
-📢 Dot Campus is super-affordable (almost free). Visit [**dotcampus.co**](http://dotcampus.co) to register for our **web development**, **frontend** or **backend** engineering programme.
 
-</aside>
+> 📢 Dot Campus is super-affordable (almost free). Visit [**dotcampus.co**](http://dotcampus.co) to register for our **web development**, **frontend** or **backend** engineering programme.
 
 ### **5. Thriving on Community Support**
 
