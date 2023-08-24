@@ -1,6 +1,3 @@
-# dotcampus.github.io
-Dot Campus Github pages
+# Welcome to Dot Campus Blog
 
-## Available Pages
-- [Peter's Journey to Success (HTML only Page)](https://dotcampus.github.io/peters-story.html)
-- [Peter's Journey to Success (HTML and CSS Page)](https://dotcampus.github.io/peters-story-css.html)
+Dot Campus Blog is a blog for sharing knowledge and experience about software development, data science, and machine learning. The blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).

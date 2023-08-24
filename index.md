@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Dot Campus Blog
 ---
+
+Welcome to Dot Campus Blog
+
+Dot Campus Blog is a blog for sharing knowledge and experience about software development, data science, and machine learning.
+
+
