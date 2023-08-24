@@ -1,9 +1,3 @@
----
-title: Dot Campus Blog
----
+Welcome to our blog!
 
-Welcome to Dot Campus Blog
-
-Dot Campus Blog is a blog for sharing knowledge and experience about software development, data science, and machine learning.
-
-
+Dot Campus Blog for sharing knowledge and experience about software development, data science, and machine learning.
