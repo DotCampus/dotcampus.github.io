@@ -1,3 +1,7 @@
+---
+author: Theo Okafor
+---
+
 ## Mastering Web Development: Your Gateway to the Tech World
 
 ![web development via Unsplash](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)

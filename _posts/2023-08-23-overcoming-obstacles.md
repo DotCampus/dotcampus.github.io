@@ -1,3 +1,7 @@
+---
+author: Theo Okafor
+---
+
 # Learning Software Development: How to Overcome Obstacles and Forge Ahead
 
 If you're reading this from anywhere in sub-Saharan Africa, chances are you're familiar with someone who couldn't embark on a tech-learning journey due to the lack of a laptop, inadequate equipment, or the financial burden of internet costs. Many individuals start learning software development, only to drop out along the way, overwhelmed by the challenges. This pattern resonates deeply with me, as I've witnessed it among my peers when we embarked on our own tech journeys, and with many mentees I've guided. Today, this struggle is even more pronounced, fueled by the increasing number of people sliding into poverty each year, particularly in Nigeria.

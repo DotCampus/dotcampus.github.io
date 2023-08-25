@@ -1,3 +1,7 @@
+---
+author: Theo Okafor
+---
+
 # Job Hunting: Crafting a Portfolio That Captures Employers' Attention
 
 ![](https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)

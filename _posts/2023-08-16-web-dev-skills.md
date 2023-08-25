@@ -1,3 +1,7 @@
+---
+author: Theo Okafor
+---
+
 # Essential Skills Every Beginner in Web Development Must Have
 
 ![web development via unsplash](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)
@@ -13,9 +17,9 @@ Whether you're aspiring to become a front-end developer, back-end engineer, or a
 2.  **Responsive Design**
     In a world where users access websites on various devices (E.g. PCs, tablets, mobile devices, etc.) responsive design is paramount. Acquiring the ability to craft websites that adapt gracefully to different screen sizes ensures an optimal user experience for your users/customers. When building responsive websites, follow a mobile-first approach.
 
-        ![Monitors and devices (Daniel Korpai via Unsplash)](https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60)
-
-        <sup>Monitors and devices (Daniel Korpai via Unsplash)</sup>
+    ![Monitors and devices (Daniel Korpai via Unsplash)](https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60)
+    
+    <sup>Monitors and devices (Daniel Korpai via Unsplash)</sup>
 
 3.  **Version Control/Git**
     Collaboration is a cornerstone of modern development. Git, a powerful version control system, empowers you to track changes, collaborate with others seamlessly, and maintain a clear history of your project's evolution. Git and GitHub are related, but are different things. GitHub is a hosting service for Git. Other hosting services include: Bitbucket, GitLab, etc.
