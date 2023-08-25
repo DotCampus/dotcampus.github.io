@@ -16,6 +16,7 @@ github_username: "DotCampus"
 #instagram_username: username
 
 google_analytics: true # Set to true to enable Google Analytics tracking
+allow_comments: true # Set to false to disable comments on all posts
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
