@@ -1,0 +1,32 @@
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.post {
+  max-width: calc(33.333% - 10px); /* Adjust the margin accordingly */
+  margin-right: 10px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+.post .post-list-title {
+  font-size: 1.25rem;
+}
+
+.post .post-list-date {
+  font-size: 0.875rem;
+  color: #333;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .posts {
+    flex-direction: column;
+  }
+
+  .post {
+    max-width: 100%;
+  }
+}

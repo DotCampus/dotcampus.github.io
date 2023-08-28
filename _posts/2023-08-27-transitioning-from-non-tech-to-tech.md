@@ -1,6 +1,7 @@
 ---
 author: Rita-Maria Oladokun
 description: This article delves into my inspiring journey of transitioning from a non-technical background into the dynamic technology industry. It unravels personal experiences, challenges, and transformative insights that illuminate how one can not only overcome barriers but also excel in the exhilarating pursuit of a tech-focused career.
+image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3264&q=80
 ---
 
 # Unlocking the Code: Navigating the Path from Non-Tech to Tech Career Excellence
