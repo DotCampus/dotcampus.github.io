@@ -1,5 +1,6 @@
 ---
 author: Theo Okafor
+description: Essential technical skills and some soft skills that will enhance your learning journey to becoming a front-end developer, back-end engineer, or a full-stack engineer.
 ---
 
 # Essential Skills Every Beginner in Web Development Must Have

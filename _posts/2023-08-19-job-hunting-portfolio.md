@@ -1,5 +1,6 @@
 ---
 author: Theo Okafor
+description: This post explores the art of creating a compelling portfolio that not only highlights your technical prowess but also captures the attention of potential employers.
 ---
 
 # Job Hunting: Crafting a Portfolio That Captures Employers' Attention

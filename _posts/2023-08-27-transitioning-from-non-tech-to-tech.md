@@ -1,5 +1,6 @@
 ---
 author: Rita-Maria Oladokun
+description: This article delves into my inspiring journey of transitioning from a non-technical background into the dynamic technology industry. It unravels personal experiences, challenges, and transformative insights that illuminate how one can not only overcome barriers but also excel in the exhilarating pursuit of a tech-focused career.
 ---
 
 # Unlocking the Code: Navigating the Path from Non-Tech to Tech Career Excellence
@@ -26,7 +27,8 @@ Another hurdle I had to overcome was the belief that only a certain group of peo
 
 3. **Join a mentorship community**: Network and seek guidance from experienced professionals. Do not stay isolated as you learn.
 
-> 📢 Ready to level up your skills? Visit [dotcampus.co](http://dotcampus.co) to connect with inspiring mentors and unlock your true potential! Register for our **web development**, **frontend** or **backend** engineering programme.
+    > 📢 Ready to level up your skills? Visit [dotcampus.co](http://dotcampus.co) to connect with inspiring mentors and unlock your true potential! Register for our **web development**, **frontend** or **backend** engineering programme.
+
 4. **Use external resources**: Do not hesitate to retort to resources like Stack Overflow or leverage ChatGPT when you get stuck. Everybody uses them, even experienced developers.
 
 ## Conclusion: Your Tech Odyssey Begins

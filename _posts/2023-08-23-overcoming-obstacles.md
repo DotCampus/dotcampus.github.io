@@ -1,5 +1,6 @@
 ---
 author: Theo Okafor
+description: You can learn software development without a personal laptop. This article explores how to overcome such obstacles and forge ahead with your learning journey.
 ---
 
 # Learning Software Development: How to Overcome Obstacles and Forge Ahead

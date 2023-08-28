@@ -1,6 +1,6 @@
 # Welcome to Dot Campus Blog
 
-Dot Campus Blog is a blog for sharing knowledge and experience about software development, data science, and machine learning. The blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). GitHub Pages uses a software called “Jekyll”. Jekyll is what converts the markdown blog post files into nicely formatted HTML that you can view in the browser.
+This blog shares knowledge, tips and experience regarding software development and tech in general. The blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). GitHub Pages uses a software called “Jekyll”. Jekyll is what converts the markdown blog post files into nicely formatted HTML that you can view in the browser.
 
 ## Contributing Blog Content
 

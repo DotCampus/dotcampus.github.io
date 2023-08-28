@@ -1,3 +1,3 @@
 Welcome to our blog!
 
-Dot Campus Blog for sharing knowledge and experience about software development, data science, and machine learning.
+Dot Campus Blog for sharing knowledge, tips and experience regarding software development and tech in general.
