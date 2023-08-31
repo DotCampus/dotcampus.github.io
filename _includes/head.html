@@ -14,16 +14,11 @@
   <link rel="apple-touch-icon" href="/assets/images/logo192.png" />
   <link rel="manifest" href="/manifest.json" />
 
-  <!-- highlight.js support -->
-  <link rel="stylesheet" href="/assets/js/highlightjs/styles/github.css">
-  <link rel="stylesheet" href="/assets/js/highlightjs/styles/ssms.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
 
-  <script type="text/javascript" src="/assets/js/highlightjs/highlight.min.js"></script>
+  <!-- and it's easy to individually load additional languages -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/go.min.js"></script>
 
-  <script type="text/javascript" src="/assets/js/highlightjs/languages/plaintext.min.js"></script>
-  <script type="text/javascript" src="/assets/js/highlightjs/languages/powershell.min.js"></script>
-  <script type="text/javascript" src="/assets/js/highlightjs/languages/tsql.min.js"></script>
-
-  <script type="text/javascript"> hljs.highlightAll(); </script>
-  <!-- end highlight.js support -->
+  <script>hljs.highlightAll();</script>
 </head>
