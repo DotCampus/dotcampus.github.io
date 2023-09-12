@@ -1,11 +1,12 @@
 ---
 author: Rita-Maria Oladokun
 description: Learn from personal experience why strategic mentorship is the missing link between theory and practice in your journey to acquiring a technology skill.
-image: https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxlYXJuJTIwdG8lMjBjb2RlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60
+image: https://images.unsplash.com/photo-1622675363311-3e1904dc1885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80
 ---
 # Guided Growth in Tech Through Mentorship Communities
 
-![teaching a programming language via Unsplash](https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxlYXJuJTIwdG8lMjBjb2RlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60)
+![teaching a programming language via Unsplash](https://images.unsplash.com/photo-1622675363311-3e1904dc1885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80)
+<sup>Photo by [Mapbox](https://unsplash.com/@mapbox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ZT5v0puBjZI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sup>
 
 A while after I started learning to code, I realized that online tutorials and self-learning would not give me the hands-on experience needed to be fully prepared for a job. I needed to gain industry insights through shadowing senior developers or by one-on-one mentorship. Relying solely on pre-recorded and asynchronous interactions with tutors had been helpful but after some time was no longer enough to take my skills to the next level. 
 
