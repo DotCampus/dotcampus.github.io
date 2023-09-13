@@ -1,7 +1,7 @@
 ---
 author: Theo Okafor
-description:
-image:
+description: This beginner-friendly guide compares GitHub Pages and WordPress, and provides step-by-step instructions for setting up your GitHub Pages blog, updating the Jekyll config, publishing your blog content, and routing your blog to a custom domain. Customising your blog's layouts and views is also covered for those with a technical background.
+image: 
 ---
 
 # Creating Your Blog with GitHub Pages For Free: A Non-Technical Guide
@@ -40,7 +40,7 @@ If you're not sure whether to choose GitHub Pages or WordPress, consider your sp
 4. **Name your repository correctly**: Name it '[your-github-username.github.io](http://your-github-username.github.io/),' where 'your-github-username' is your GitHub username.
 5. **Create Repository:** Click ‘`Create Repository`’ to create your repository
 
-**[Video showing the process]**
+[TheoOkafor-github-pages-blog-A-template-repository-for-GitHub-Pages-Blog.webm](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/9d902360-9ecf-47c9-870d-ffd8629ecb73)
 
 ### **Step 2: Update the Jekyll Config**
 
@@ -62,8 +62,6 @@ Here are some of the common settings that you might want to change:
 - Social media links: You can add links to your social media profiles in the site's footer.
 - Analytics: You can add tracking codes for Google Analytics or other analytics services to track your site's traffic.
 
-**[Video showing the process]**
-
 > 📢 **Git (Version Control)** is also a part of our programme contents. Visit [**dotcampus.co**](http://dotcampus.co) to register for our **web development**, **frontend** or **backend** engineering programme.
 
 ### **Step 3: Publishing Your Blog Content**
@@ -73,7 +71,8 @@ Here are some of the common settings that you might want to change:
 3. Every post files must named using the format: `YEAR-MONTH-DAY-title.md` E.g. `2023-09-13-how-to-write-a-blog.md`. *Do not use a future date.*
 4. Commit your changes to GitHub. Your post will be live on '[your-github-username.github.io](http://your-github-username.github.io/)' after a few minutes.
 
-**[Video showing the process]**
+[Tab-1694625216660.webm](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/4c6a5b36-5941-49a2-bf4a-4b556986a45d)
+
 
 ### Step 4: Routing Your Blog to a Custom Domain (Optional)
 
