@@ -40,7 +40,7 @@ If you're not sure whether to choose GitHub Pages or WordPress, consider your sp
 4. **Name your repository correctly**: Name it '[your-github-username.github.io](http://your-github-username.github.io/),' where 'your-github-username' is your GitHub username.
 5. **Create Repository:** Click ‘`Create Repository`’ to create your repository
 
-[TheoOkafor-github-pages-blog-A-template-repository-for-GitHub-Pages-Blog.webm](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/9d902360-9ecf-47c9-870d-ffd8629ecb73)
+[![TheoOkafor-github-pages-blog-A-template-repository-for-GitHub-Pages-Blog.webm](https://icon-library.com/images/youtube-video-player-icon/youtube-video-player-icon-6.jpg) ](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/9d902360-9ecf-47c9-870d-ffd8629ecb73)
 
 ### **Step 2: Update the Jekyll Config**
 
@@ -71,7 +71,7 @@ Here are some of the common settings that you might want to change:
 3. Every post files must named using the format: `YEAR-MONTH-DAY-title.md` E.g. `2023-09-13-how-to-write-a-blog.md`. *Do not use a future date.*
 4. Commit your changes to GitHub. Your post will be live on '[your-github-username.github.io](http://your-github-username.github.io/)' after a few minutes.
 
-[Tab-1694625216660.webm](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/4c6a5b36-5941-49a2-bf4a-4b556986a45d)
+[![publishing content video](https://icon-library.com/images/youtube-video-player-icon/youtube-video-player-icon-6.jpg)](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/4c6a5b36-5941-49a2-bf4a-4b556986a45d)
 
 
 ### Step 4: Routing Your Blog to a Custom Domain (Optional)
