@@ -73,7 +73,6 @@ Here are some of the common settings that you might want to change:
 
 [![publishing content video](https://icon-library.com/images/youtube-video-player-icon/youtube-video-player-icon-6.jpg)](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/4c6a5b36-5941-49a2-bf4a-4b556986a45d)
 
-
 ### Step 4: Routing Your Blog to a Custom Domain (Optional)
 
 To give your blog a custom domain (e.g., '[yourname.com](http://yourname.com/)'), you'll need to purchase a domain and configure it in your GitHub repository settings. GitHub provides detailed instructions for this.
