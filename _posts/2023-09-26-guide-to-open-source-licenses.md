@@ -1,6 +1,6 @@
 ---
 author: Theo Okafor
-description: Have you ever wondered which licenses mean or which license to use for your open-source project? This article provides a beginner-friendly guide to the ten most common open-source licenses, including the GNU General Public License (GPL), MIT License, Apache License 2.0, BSD License, Mozilla Public License (MPL), GNU Lesser General Public License (LGPL), Eclipse Public License (EPL), Common Development and Distribution License (CDDL), Artistic License, and Creative Commons Licenses.
+description: Have you ever wondered what some open-source licenses entail or which license to use for your open-source project? This article provides a beginner-friendly guide to the ten most common open-source licenses, including the GNU General Public License (GPL), MIT License, Apache License 2.0, BSD License, Mozilla Public License (MPL), GNU Lesser General Public License (LGPL), Eclipse Public License (EPL), Common Development and Distribution License (CDDL), Artistic License, and Creative Commons Licenses.
 image: https://media.istockphoto.com/id/475697916/photo/open-source-handwritten-with-related-word-cloud.jpg?s=1024x1024&w=is&k=20&c=iOA4QKOHV8x9K8QWXyPP86lTKxLjEuWW1XFyVIAdt7o=
 ---
 
