@@ -1,7 +1,7 @@
 ---
 author: Theo Okafor
 description: Version Control and Source Code Management are critical skills for developers. This article provides a beginner-friendly guide to version control and source code management, including their importance, history, and real-world applications.
-image: https://github.com/DotCampus/dotcampus.github.io/assets/31534129/4d8168a8-57f4-4dbf-aeed-3b5b0e05f706
+image: https://github.com/DotCampus/dotcampus.github.io/assets/31534129/17f87623-7c9b-45f3-8db0-90514ff66ec3
 ---
 
 # Demystifying Version Control and Source Code Management
@@ -32,8 +32,8 @@ By using version control, developers can confidently work on software projects, 
 ## Chapter 2: The Evolution of Version Control
 
 *From Stone Tablets to Digital Repositories*
-![An-image-of-an-ancient-scribe-chiseling-information-onto-a-stone-tablet-to-represent-a-historical-context](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/e9c3b800-ea33-4701-b6e3-4f1fc7dd354a)
 
+![An-image-of-an-ancient-scribe-chiseling-information-onto-a-stone-tablet-to-represent-a-historical-context (1)](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/a1974820-00f4-4a15-bab6-4dceeac3541a)
 
 
 The history of version control is fascinating. In ancient times, scribes used stone tablets to record information. If they made a mistake, they couldn't erase it but had to create a new tablet. Fast forward to the digital age, and version control has become an integral part of software development. It started with simple systems that saved different versions of files, but it has evolved into sophisticated tools that enable collaboration among developers worldwide.
@@ -60,8 +60,7 @@ By using an SCM system like Git, developers can ensure the safety and security o
 
 *Working Together, Seamlessly*
 
-![Visual-representation-of-black-developers-collaborating-on-a-project-using-version-control](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/50b4cfa6-88eb-4542-a6d3-908c34914e51)
-
+![Visual-representation-of-black-developers-collaborating-on-a-project-using-version-control](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/ff0ce7a8-84de-462f-b453-aecf53f513cc)
 
 Imagine building a skyscraper alone; it would take forever! In the coding world, collaboration is key. Collaboration in software development is made possible through version control systems like Git, Mercurial, etc. These systems enable developers to work together on the same codebase, making it easier to track changes, manage conflicts, and ensure that everyone is working on the most up-to-date version of the code. With the power of collaboration, developers can build amazing projects by leveraging the collective knowledge and skills of their team.
 
