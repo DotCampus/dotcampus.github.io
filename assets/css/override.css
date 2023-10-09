@@ -2,17 +2,6 @@ hr {
   margin-top: 30px;
   margin-bottom: 20px;
 }
-.head-and-footer-wrapper {
-  max-width: calc(var(--website-max-width) - (30px * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px;
-}
-
-.w-1by3 {
-  width: 33.333333%;
-}
 
 a.btn, button.btn {
   display: inline-block;
@@ -50,6 +39,16 @@ a.btn.btn-secondary, button.btn.btn-secondary {
   background-color: var(--chakra-colors-gray-200);
   color: var(--chakra-colors-orange-600);
   font-size: var(--chakra-fontSizes-lg);
+}
+
+header.site-header .header-container {
+  max-width: var(--website-max-width);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header.site-header nav.site-nav div.trigger a.blog {
+  color: var(--chakra-colors-orange-600);
 }
 
 /* Post navigation links */
@@ -162,6 +161,9 @@ footer.site-footer div.footer-container {
   justify-content: space-between;
   gap: 1em;
   margin: 0 auto;
+  max-width: calc(var(--website-max-width) - (30px * 2));
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 footer.site-footer div.footer-container-left {
