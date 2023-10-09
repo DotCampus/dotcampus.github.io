@@ -6,7 +6,7 @@
 
 title: "Dot Campus Blog"
 author: "DotCampus"
-description: "This blog shares knowledge, tips and experience regarding software development and tech in general. It is directly affiliated to dotcampus.co" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "This blog shares knowledge, tips and experience regarding software development and tech in general." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 url: "https://blog.dotcampus.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: "DotCampusHQ"
 github_username: "DotCampus"
