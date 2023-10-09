@@ -1,0 +1,32 @@
+<footer class="site-footer">
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+  <div class="footer-container head-and-footer-wrapper">
+    <div class="footer-container-left">
+      <a href="{{ " /" | relative_url }}">
+        <img alt="Dot Campus Logo" src="/assets/images/full-colour-logo.png" class="chakra-image css-1oba5d0" />
+      </a>
+      <p>{{ site.description | escape }}</p>
+    </div>
+    <div class="footer-container-right">
+      <div class="">
+        <h3>Quick Links</h3>
+        <a class="footer-link" href="https://dotcampus.co/about">About</a>
+        <a target="_blank" rel="noopener noreferrer" class="footer-link" href="/">Blog</a>
+      </div>
+      <div class="">
+        <h3 class="">Connect With Us</h3>
+        <a class="footer-link" href="tel:+2348189805679">+2348189805679</a>
+        <a class="footer-link"
+          href="mail:support@dotcampus.co">support@dotcampus.co</a>
+        <div class="social-links">
+          {%- include social.html -%}
+        </div>
+      </div>
+    </div>
+  </div>
+  <p class="footer-copyright">
+    © 2023 Dot Campus Africa LLC. All rights reserved
+  </p>
+
+</footer>
