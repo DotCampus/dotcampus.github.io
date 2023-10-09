@@ -10,6 +10,8 @@ description: "This blog shares knowledge, tips and experience regarding software
 url: "https://blog.dotcampus.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: "DotCampusHQ"
 github_username: "DotCampus"
+support_email: "support@dotcampus.co"
+phone_number: "+2348189805679"
 # linkedin_username: "dotcampus-co"
 # email: "support@dotcampus.co"
 #facebook_username: username
@@ -17,6 +19,7 @@ github_username: "DotCampus"
 
 google_analytics: true # Set to true to enable Google Analytics tracking
 allow_comments: true # Set to false to disable comments on all posts
+apply_now_url: "https://forms.gle/WEkKgxyyNuDxZ41E7" # Set to the URL of the apply now page
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########

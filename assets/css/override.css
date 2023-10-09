@@ -35,10 +35,27 @@ a.btn:disabled, button.btn:disabled {
   cursor: not-allowed;
 }
 
-a.btn.btn-secondary, button.btn.btn-secondary {
+a.btn.btn-inverted-secondary, button.btn.btn-inverted-secondary {
   background-color: var(--chakra-colors-gray-200);
   color: var(--chakra-colors-orange-600);
   font-size: var(--chakra-fontSizes-lg);
+}
+
+a.btn.btn-inverted-secondary:hover, button.btn.btn-inverted-secondary:hover {
+  background-color: var(--chakra-colors-gray-300);
+  color: var(--chakra-colors-orange-600);
+}
+
+a.btn.btn-secondary, button.btn.btn-secondary {
+  background-image: linear-gradient(to right, #FFC719 0%, #eb662d 51%, #FF2200 100%);
+    color: var(--chakra-colors-gray-100);
+    background-repeat: no-repeat;
+    min-width: 120px;
+    border-radius: 10px;
+}
+
+a.btn.btn-secondary:hover, button.btn.btn-secondary:hover {
+  background-image: linear-gradient(to right, #FF2200 0%, #eb662d 51%, #FFC719 100%);
 }
 
 header.site-header .header-container {
