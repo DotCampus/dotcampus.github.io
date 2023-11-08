@@ -20,7 +20,7 @@ That’s about all you need to know to get started.
 
 To contribute to the codes as a developer you need to have [Ruby and Jekyll setup](https://jekyllrb.com/docs/installation/) on your machine.
 
- - Clone the repository
+ - Fork the repository
  - Install Ruby and Jekyll following [the installation guide](https://jekyllrb.com/docs/installation/)
  - Run `bundle install` at the root of the repository
  - Run `bundle exec jekyll serve` to start the development server
