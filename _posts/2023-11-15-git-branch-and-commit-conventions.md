@@ -22,14 +22,14 @@ Various Git workflows cater to different project needs. We have Gitflow, GitHub 
 
 - **Gitflow**: A branching model that focuses on versioned releases, with designated branches for features, releases, and hotfixes.
     
-    ![Git Flow by Alex Hyett](https://prod-files-secure.s3.us-west-2.amazonaws.com/e47c7918-e631-4008-a7cc-31d4e79679e6/ba5cc1a9-18eb-41fd-a02f-09ec53c4b203/Untitled.png)
+    ![Git Flow by Alex Hyett](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/bbda8361-0aba-42bb-b79e-a2a029685e9b)
     
     <sup>Git Flow by Alex Hyett</sup>
     
 - **GitHub Flow**: A straightforward workflow that encourages continuous deployment from the main branch, suitable for web development.
     
-    ![GitHub Flow by Alex Hyett](https://prod-files-secure.s3.us-west-2.amazonaws.com/e47c7918-e631-4008-a7cc-31d4e79679e6/2241cf8b-3648-4570-a990-e16f8671aa8e/Untitled.png)
-    
+    ![GitHub Flow by Alex Hyett](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/33792744-f09e-4af0-978e-3c00be123ae7)
+
     <sup>GitHub Flow by Alex Hyett</sup>
     
 - **GitLab Flow**: Similar to GitHub Flow, with an emphasis on code review and CI/CD integration.
