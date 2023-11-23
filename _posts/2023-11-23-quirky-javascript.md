@@ -1,7 +1,7 @@
 ---
 author: Theo Okafor
 description: JavaScript is a versatile and dynamic programming language. However, as you delve deeper into its intricacies, you will often encounter some peculiarities that make you wonder. In this article, we will explore some of these aspects of JavaScript that you probably did not know about.
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg
 ---
 
 # Quirky JavaScript: Strange but True JavaScript Anomalies
