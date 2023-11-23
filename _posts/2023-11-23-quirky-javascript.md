@@ -20,11 +20,11 @@ If you try the following codes on your browser console you may be shocked to fin
 0.1 + 0.3 === 0.4 // true
 ```
 
-The simple reason why this happens is because JavaScript floating point maths is off in particular instance. **`0.1 + 0.2 = 0.30000000000000004 // which is not exactly equal to 0.3`.** Computers in general are not very good at dealing with floating point numbers. Which explains why, in JavaScript’s defence, this problem is also found in Python, Ruby, etc.
+The simple reason why this happens is because JavaScript floating point maths is off in a particular instance. **`0.1 + 0.2 = 0.30000000000000004 // which is not exactly equal to 0.3`.** Computers generally are not very good at dealing with floating point numbers. This explains why, in JavaScript’s defence, this problem is also found in Python, Ruby, etc.
 
 ## 2. “Plus-able” Arrays and  Objects
 
-The plus operator (+) in JavaScript does two things: Mathematical addition and concatenation just like in most programming languages. Concatenation is where JavaScript simply joins the thing together
+The plus operator (+) in JavaScript does Mathematical addition and concatenation, just like in most programming languages. Concatenation is where JavaScript simply joins things together
 
 For Example:
 
@@ -52,11 +52,11 @@ If you are coming from a Python Background you would have expected an empty `lis
 [] + {} // '[object Object]'
 ```
 
-I know what you’re thinking. “What is going on here?” 😂 If you know the explanation to any of these, please leave a comment for us to learn.
+I know what you’re thinking. “What is going on here?” 😂 If you know the explanation for any of these, please leave a comment for us to learn.
 
 ## 3. Here comes “typeof”
 
-JavaScript's `typeof` operator is a very handy for identifying variable types. It does it reliably well and gives expected results in most cases. For example:
+JavaScript's `typeof` operator is very handy for identifying variable types. It does it reliably well and gives expected results in most cases. For example:
 
 ```jsx
 typeof 'word'    // 'string'
@@ -99,4 +99,4 @@ return
 
 Surprisingly, the object literal is not treated as expected. Due to ASI, the interpreter inserts a semicolon after `return`, turning the code equivalent to `return;` with the subsequent block treated as unreachable.
 
-As ridiculous as they may seem, most of these JavaScript nuances have reasonable explanations behind them, and as we have seen some of them are not really peculiar to JavaScript only. The goal is to know them, understand them and to use them advantageously.
+As ridiculous as they may seem, most of these JavaScript nuances have reasonable explanations behind them, and as we have seen some of them are not really peculiar to JavaScript only. The goal is to know them, understand them and use them advantageously.
