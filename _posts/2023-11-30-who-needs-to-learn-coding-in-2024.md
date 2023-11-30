@@ -1,8 +1,7 @@
 ---
 author: Theo Okafor
-description: The career landscape is undergoing a profound transformation, and among the various skills that have emerged as pivotal in this tech-driven era, coding stands out. In this article, I will try to answer questions like: Who needs to learn coding skills? Should I learn to code or not? How do I go about learning coding? And so on.
+description: The career landscape is undergoing a profound transformation, and among the various skills that have emerged as pivotal in this tech-driven era, coding stands out. The question is who needs to learn coding skills?
 image: https://images.unsplash.com/photo-1675654567731-6202cd552e3b?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
-
 ---
 
 # Who Needs To Learn Coding Skills in 2024?
