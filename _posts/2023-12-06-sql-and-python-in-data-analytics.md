@@ -25,7 +25,7 @@ As we mentioned before, data collected by organisations are typically stored in 
 
 Going back to the previous example about opening an account with a bank, once you submit your form, the bank staff will use the form to enter your information into their system. If the bank is using a relational database (which is highly likely), your data will be stored in the “**customers”** table in the database. When your account is created and they issue you an account number, the account details will be stored in the **“accounts”** table (or its equivalent) in the database, and depending on the ***relationship*** the bank allows in their **database**, you may be permitted to have only one account or more than one accounts.
 
-![An Example of an Entity Relationship Diagram (ERD) of a Bank’s Database (Source: [semanticscholar.org](https://www.semanticscholar.org/)).](https://prod-files-secure.s3.us-west-2.amazonaws.com/e47c7918-e631-4008-a7cc-31d4e79679e6/0dca9c86-5780-48c1-b7bb-d22102831261/Untitled.png)
+![An Example of an Entity Relationship Diagram (ERD) of a Bank’s Database (Source: [semanticscholar.org]([https://www.semanticscholar.org/)).](https://prod-files-secure.s3.us-west-2.amazonaws.com/e47c7918-e631-4008-a7cc-31d4e79679e6/0dca9c86-5780-48c1-b7bb-d22102831261/Untitled.png](https://github.com/DotCampus/dotcampus.github.io/assets/31534129/a60e8ad5-d78a-4c9c-8957-bc81e33aa231))
 
 An Example of an Entity Relationship Diagram (ERD) of a Bank’s Database (Source: [semanticscholar.org](https://www.semanticscholar.org/)).
 
@@ -53,11 +53,11 @@ Here are some of the best free learning resources for learning Python and SQL th
 
 ### SQL:
 
-- W3schools - https://www.w3schools.com/sql/default.asp
-- Codecademy - https://www.codecademy.com/learn/learn-sql
+- W3schools - [https://www.w3schools.com/sql/default.asp](https://www.w3schools.com/sql/default.asp)
+- Codecademy - [https://www.codecademy.com/learn/learn-sql](https://www.codecademy.com/learn/learn-sql)
 
 ### Python:
 
-- W3schools - https://www.w3schools.com/python/default.asp
-- LearnPython - https://www.learnpython.org/
-- FreeCodeCamp - https://www.freecodecamp.org/learn/data-analysis-with-python/
+- W3schools - [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
+- LearnPython - [https://www.w3schools.com/python/default.asp](https://www.learnpython.org/)
+- FreeCodeCamp - [https://www.freecodecamp.org/learn/data-analysis-with-python/](https://www.freecodecamp.org/learn/data-analysis-with-python/)
