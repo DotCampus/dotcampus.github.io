@@ -22,11 +22,11 @@ There are many reasons, but here are a few common ones:
 
 - **The Task Seems Boring:** When you don't find the task interesting, there are chances you'll keep pushing it back. Break up your tasks and make it more interesting.
 
-**Perfectionism:** You want it to be flawless and by doing so, you'll never start. Remember, progress is better than perfection!
+- **Perfectionism:** You want it to be flawless and by doing so, you'll never start. Remember, progress is better than perfection!
 
 ## Tips to Beat Procrastination:
 
-**Break it Down:** Big tasks become less scary when you see them as a series of small, achievable steps. Even a big mountain can be climbed one step at a time. Break down large tasks into smaller, more manageable size that way they'll be less scary and you'll be less anxious.
+- **Break it Down:** Big tasks become less scary when you see them as a series of small, achievable steps. Even a big mountain can be climbed one step at a time. Break down large tasks into smaller, more manageable size that way they'll be less scary and you'll be less anxious.
 
 - **Set Realistic Goals:** Don't overload your schedule. Be honest about what you can accomplish in a set time frame. Work with your schedule and set achievable goals. You're already busy, don't write down 10 task to achieve in 3 hours.
 
