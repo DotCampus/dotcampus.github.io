@@ -30,7 +30,7 @@ Both LLMs yielded similar results for the same prompt, narrowing my decision dow
 
 ### Integrating Gemini AI into Dot Campus
 
-The next step for me was to properly calibrate the response AI response from the usual format to a JSON format which could be easily parsed as a REST API response (REST, or Representational State Transfer, is a software architectural style for creating web services). I also improved the parameters and fine-tuned the AI prompt.
+The next step for me was to properly calibrate and convert the AI response from the usual format to a JSON format which could be easily parsed as a REST API response (REST, or Representational State Transfer, is a software architectural style for creating web services). I also improved the parameters and fine-tuned the AI prompt.
 
 ![Gemini prompt and response](https://github.com/user-attachments/assets/4e62c73c-b2b8-4827-89b2-059fe5369916)
 
