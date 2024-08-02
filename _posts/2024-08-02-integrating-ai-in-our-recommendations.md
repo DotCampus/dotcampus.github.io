@@ -15,7 +15,8 @@ After about a week of brainstorming, it became obvious that the feature may serv
 
 ### The Journey to AI Integration
 
-![The Flowchart of the user journey for the “New Onboarding Flow”](https://github.com/user-attachments/assets/1ad6a36c-5e1b-40f3-8a83-d77476f1179a)
+![The Flowchart of the user journey for the “New Onboarding Flow”](https://github.com/user-attachments/assets/b47c0ec4-5218-4459-b992-17071d136989)
+
 <sup>The Flowchart of the user journey for the “New Onboarding Flow”</sup>
 
 After mapping out the user journey on a flow chart, it became clear that developing an algorithm to efficiently process data and provide intelligent course recommendations to our users would be challenging due to its complexity, which I would rather not bore you with the details.
