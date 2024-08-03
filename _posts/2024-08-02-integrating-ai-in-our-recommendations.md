@@ -9,9 +9,7 @@ image:
 
 <sup>The working recommendation feature on dotcampus.co</sup>
 
-In the first week of July 2024, our programs manager, Bashirat Sulyman, asked me to check out an interesting feature she saw on a website. She hoped we could get inspiration from it and noted that the feature was not working but we could make ours work. When I tested the feature on the site, I was inspired.
-
-After about a week of brainstorming, it became obvious that the feature may serve us best in helping people decide what they should learn and which delivery mode would best serve them, instead of onboarding them. This has been the main focus of many of the queries we have received from our leads.
+In the first week of July 2024, while discussing how to improve our onboarding process on Dot Campus, our programs manager, Bashirat Sulyman, asked me to check out an interesting feature she found on a particular website. She hoped we could get inspiration from it. After about a week of brainstorming, it became obvious that the feature may serve us best in helping people decide what they should learn and which delivery mode would best serve them, instead of onboarding them. This has been the main focus of many of the queries we have received from our leads.
 
 ### The Journey to AI Integration
 
