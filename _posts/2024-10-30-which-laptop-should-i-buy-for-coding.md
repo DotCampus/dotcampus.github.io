@@ -82,14 +82,12 @@ Here's how you can check the battery health on a Windows laptop:
 
 4. Compare the current **full charge capacity** with the **design capacity** to gauge battery health. If the current capacity is significantly lower than the design capacity (less than **80%**), you might want to consider replacing the battery or choosing a different laptop.
 
-$$
- Battery Health = Full Charge Capacity/Design Capacity * 100
-$$
-
 From the screenshot,
 ```
 Design Capacity = 56,750mWh
 Full Charge Capacity = 56,580mWh
+
+Battery Health = Full Charge Capacity/Design Capacity * 100
 
 Battery Health = 56580/56750 * 100 = 99.7%
 ```
