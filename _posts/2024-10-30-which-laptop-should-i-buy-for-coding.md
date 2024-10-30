@@ -7,7 +7,7 @@ description: Learn some of the things to consider before buying a used laptop (n
 ![Article Poster Image](https://github.com/user-attachments/assets/5523a1e0-4751-4e22-9783-a3b238361af0)
 
 I get this question a lot, especially from people looking to change their laptop or to get their first laptop for coding or learning tech. Unfortunately, there is no straight answer to this question because it depends on various factors.
-So in this article, I will provide a comprehensive guide on purchasing used laptops. This includes tips on checking battery usage, which can help you determine the battery's lifespan, as well as recommendations for optimal RAM and processors. Additionally, I will suggest a few reliable places to buy used laptops in Lagos, Nigeria.
+So in this article, I will provide a comprehensive guide on purchasing used laptops. This includes tips on checking battery usage, which can help you determine the battery's lifespan, as well as recommendations for optimal RAM and processors. Additionally, I will suggest a few reliable places to buy used laptops.
 
 Here are some of the most common questions people ask me about getting a laptop for tech.
 
