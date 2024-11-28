@@ -1,7 +1,9 @@
 ---
 author: Theo Okafor
-description: 
+description: Is Building a Web App from Scratch  Right for Your Small Business? Find out in this post whether your business can handle it or you are better off with an existing solution
 ---
+# Is Building a Web App from Scratch  Right for Your Small Business?
+
 ![Article Poster Image](https://github.com/user-attachments/assets/379c5dae-ecbe-4b73-9df9-ac7e1fcad2f5)
 
 This year, I received several software (web app) requests from small businesses looking to expand online. They all wanted similar features: a website that allows their customers to place orders for products, hosted on a custom domain, and designed to match their brand. In most cases, my response was, “Have you tried any existing solutions?”
@@ -65,6 +67,6 @@ For example, one small business owner once dismissed one existing solution becau
 
 Remember, the goal is to make informed decisions that best serve your business needs and resources. Sometimes, the smartest choice is to leverage existing solutions rather than reinventing the wheel.
 
-Feel free to reach out if you need guidance on choosing the right solution for your business. Your success matters!
+Feel free to reach out if you need guidance on choosing the right solution for your business. If you know other solutions small businesses can leverage to grow online, please share in the comment section!
 
 Keep thriving!
