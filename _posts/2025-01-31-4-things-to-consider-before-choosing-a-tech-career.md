@@ -17,9 +17,9 @@ As Simon Sinek wisely noted, "Start with Why." Why do you want to learn tech? Be
 
 If you are a student or fresh out of school, this may not matter much to you. However, if you have already started working and have more than 2 years of experience in your current career, then you need to consider it. If the career is not really what you have always wanted to do with your life, then feel free to put it in the trash and go for the tech skill of your dreams.
 
-On the other hand, if it is the career you have always wanted, and a matter of “what you ordered vs what you got” then you have a really tough decision to make. Starting to learn tech means that whenever you finish learning and get a role, you’ll most likely be starting from the bottom again (entry-level). If starting from the bottom again would be a deal-breaker for you, consider learning a tech skill that will enhance your current job skills. For example, if you work with data a lot, like an accountant or clerk, consider learning data analytics to take your skills to the next level and help you grow in your current role faster, and so on.
+On the other hand, if you’re in the career you’ve always desired but are facing a mismatch between your expectations and reality, you’ll have a difficult decision to make. Learning a tech skill means that once you finish your training, you’ll likely start at the entry-level again. If starting over would be a deal-breaker for you, it might be wise to learn a tech skill that enhances your current job. For example, if you work with data a lot, like an accountant or clerk, consider learning data analytics to take your skills to the next level and help you grow in your current role faster, and so on.
 
-If starting from the bottom is a risk worth taking for you, you know what to do!
+If the prospect of starting from the bottom again is a risk you’re willing to take, then you know what to do!
 
 ### 3. Consider the Availability of Entry Level Opportunities
 
