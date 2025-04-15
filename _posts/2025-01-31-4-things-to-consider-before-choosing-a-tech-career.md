@@ -1,6 +1,9 @@
 ---
+title: "4 Things to Consider Before Choosing a Tech Career Path (in 2025) "
+date: "2025-01-31"
 author: Theo Okafor
 description: Are you considering a tech career, but you do not know which one to go for? Here are 4 things to consider before you make a decision.
+image: https://github.com/user-attachments/assets/fd1799a7-e3ef-411d-b7ac-e12bed5e1456
 ---
 
 # 4 Things to Consider Before Choosing a Tech Career Path (in 2025)
@@ -9,7 +12,7 @@ I have become accustomed to people interested in learning and starting a career 
 
 ### 1. Start with “Why”
 
-When I began learning Oracle Database Management in 2012, I didn’t have a strong “why”. I had no convictions about what I was going to do with the knowledge and skills that I gained. I copied notes and practised little because my “why” was shallow. When I came back to learning tech in 2016/2017, I had a better “why”, and a plan with a timeline. I learned better and went further and eventually got my first tech role with Andela in 2018.
+When I began learning Oracle Database Management in 2012, I didn’t have a strong “why”. I had no convictions about what I was going to do with the knowledge and skills that I gained. I copied notes and practiced little because my “why” was shallow. When I came back to learning tech in 2016/2017, I had a better “why”, and a plan with a timeline. I learned better and went further and eventually got my first tech role with Andela in 2018.
 As Simon Sinek wisely noted, "Start with Why." Why do you want to learn tech? Be honest with yourself. There are countless reasons for wanting to acquire tech skills: it could be "to earn a good salary," "to do meaningful work and enjoy a comfortable life," "to start my own company," or "to future-proof my career." Whatever your reason may be, ensure that it resonates with you and is strong enough to sustain you through challenging times. Additionally, consider writing it down in your diary so you can always refer back to it.
 ![plans](https://github.com/user-attachments/assets/9d671608-62ab-4ebf-95dc-50fdeff606eb)
 

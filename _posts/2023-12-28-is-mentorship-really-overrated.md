@@ -1,4 +1,6 @@
 ---
+title: "Is Mentorship Really Overrated?"
+date: "2023-12-28"
 title: Is Mentorship Really Overrated?
 author: Judith Kachi
 description: Mentorship is overrated to many because of the unrealistic expectations from the relationship. A mentor is not the same as a coach or a sponsor. A mentor is a mentor only. If we understand this, our mentorship experience will yield better results.

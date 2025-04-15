@@ -1,4 +1,6 @@
 ---
+title: "We All Procrastinate, But Here's How to Stop!"
+date: "2024-03-15"
 author: Bashirat Sulyman
 description: Do you find yourself putting off things that you are supposed to do until dying minute? It's called procrastination, and here is how you can stop it. 
 image: https://github.com/DotCampus/dotcampus.github.io/assets/140621895/cee077fa-47c1-4a95-b70d-303176b21f28

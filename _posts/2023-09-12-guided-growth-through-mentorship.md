@@ -1,4 +1,6 @@
 ---
+title: "Guided Growth in Tech Through Mentorship Communities"
+date: "2023-09-12"
 author: Rita-Maria Oladokun
 description: Learn from personal experience why strategic mentorship is the missing link between theory and practice in your journey to acquiring a technology skill.
 image: https://images.unsplash.com/photo-1622675363311-3e1904dc1885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80

@@ -1,6 +1,9 @@
 ---
+title: "How to Take a Course on Coursera for Free"
+date: "2024-08-22"
 author: Theo Okafor
 description: How to take a course for free on Coursera using the "audit" feature
+image: 
 ---
 
 # How to Take a Course on Coursera for Free

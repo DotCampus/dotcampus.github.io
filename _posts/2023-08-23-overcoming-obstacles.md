@@ -1,4 +1,6 @@
 ---
+title: "Learning Software Development: How to Overcome Obstacles and Forge Ahead"
+date: "2023-08-23"
 author: Theo Okafor
 description: You can learn software development without a personal laptop. This article explores how to overcome such obstacles and forge ahead with your learning journey.
 image: https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80

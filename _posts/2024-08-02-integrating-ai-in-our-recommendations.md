@@ -1,4 +1,6 @@
 ---
+title: "How We Integrated AI in Our Course Recommendation Feature"
+date: "2024-08-02"
 author: Theo Okafor
 description: We recently deployed our AI-powered course recommendation feature on our website to help people find ideal courses that match their goals, interests and experience. This is how we did it...
 image: 
