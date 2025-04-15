@@ -1,6 +1,9 @@
 ---
+title: How to Choose the Right Tech Tools for Your Business
+date: 2024-08-22
 author: Amarachi Okoronkwo
 description: Struggling to find the right tech tools for your business? You're not alone! 
+image: https://github.com/user-attachments/assets/badafbe6-d287-45e6-8ada-a890a4f5ea7a
 ---
 
 # **How to Choose the Right Tech Tools for Your Business**

@@ -1,4 +1,6 @@
 ---
+title: "Demystifying Version Control and Source Code Management"
+date: "2023-10-03"
 author: Theo Okafor
 description: Version Control and Source Code Management are critical skills for developers. This article provides a beginner-friendly guide to version control and source code management, including their importance, history, and real-world applications.
 image: https://github.com/DotCampus/dotcampus.github.io/assets/31534129/17f87623-7c9b-45f3-8db0-90514ff66ec3

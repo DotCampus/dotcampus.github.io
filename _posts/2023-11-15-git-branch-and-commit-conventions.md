@@ -1,4 +1,6 @@
 ---
+title: "Mastering Git Workflows, Branch Naming, and Commit Conventions"
+date: "2023-11-15"
 author: Theo Okafor
 description: Mastering Git workflows, branch naming, and commit messages is a game-changer for collaborative software development. These practices transform your project's history into a comprehensible story, saving time, reducing confusion, and streamlining teamwork.
 image: 

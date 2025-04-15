@@ -1,4 +1,6 @@
 ---
+title: "Mentorship: The Quickest Way to Grow in Tech"
+date: "2023-08-16"
 author: Theo Okafor
 description: Learn how mentorship could be your quickest way to blossom in the ever-evolving world of technology and software development, serving as a vital compass, providing guidance and accelerating your growth. 
 image: https://github.com/DotCampus/dotcampus.github.io/assets/31534129/b3cb2bd4-5ae8-4490-a097-10bcc84a9c74
