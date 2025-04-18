@@ -1,6 +1,6 @@
 ---
 title: "Git Branch Rule: Disabling Commits to Main branch Using Husky"
-date: "2023-08-31"
+date: 2023-08-31
 author: Theo Okafor
 description: Learn how to safeguard your software development project's main branch with Husky and GitHub branch protection rules. Follow our step-by-step guide to integrate Husky's pre-commit checks and configure GitHub's branch protection settings, adding an extra layer of security to your codebase. Elevate your version control strategy and learn how to protect your 'main' branch effectively with this comprehensive approach.
 image: https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600

@@ -1,6 +1,6 @@
 ---
 title: "Git Crash Course for Beginners"
-date: "2023-10-31"
+date: 2023-10-31
 author: Theo Okafor
 description: Git is a widely used version control system that helps you track and manage changes in your software projects. In this crash course, we'll demystify Git for absolute beginners, breaking down the jargon and complexities into simple terms that anyone can understand.
 image: https://github.com/DotCampus/dotcampus.github.io/assets/31534129/17f87623-7c9b-45f3-8db0-90514ff66ec3

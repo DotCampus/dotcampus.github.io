@@ -1,6 +1,6 @@
 ---
 title: "Mastering Web Development: Your Gateway to the Tech World"
-date: "2023-08-05"
+date: 2023-08-05
 author: Theo Okafor
 description: Mastering web development can provide individuals with a gateway to the tech world, offering numerous career opportunities and a chance to make a positive impact on the digital landscape.
 image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
