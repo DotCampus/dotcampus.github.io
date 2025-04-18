@@ -1,6 +1,6 @@
 ---
 title: "Job Hunting: Crafting a Portfolio That Captures Employers' Attention"
-date: "2023-08-19"
+date: 2023-08-19
 author: Theo Okafor
 description: This post explores the art of creating a compelling portfolio that not only highlights your technical prowess but also captures the attention of potential employers.
 image: https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
