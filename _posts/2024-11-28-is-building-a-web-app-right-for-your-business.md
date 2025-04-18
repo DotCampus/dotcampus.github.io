@@ -4,6 +4,7 @@ date: 2024-11-28
 author: Theo Okafor
 description: Is Building a Web App from Scratch  Right for Your Small Business? Find out in this post whether your business can handle it or you are better off with an existing solution
 image: https://github.com/user-attachments/assets/379c5dae-ecbe-4b73-9df9-ac7e1fcad2f5
+image: https://github.com/user-attachments/assets/379c5dae-ecbe-4b73-9df9-ac7e1fcad2f5
 ---
 # Is Building a Web App from Scratch  Right for Your Small Business?
 

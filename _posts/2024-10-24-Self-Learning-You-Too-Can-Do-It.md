@@ -4,6 +4,7 @@ date: 2024-10-24
 author: Amarachi Okoronkwo
 description: Here are six, go-to study tips for Self-learning.
 image: https://github.com/user-attachments/assets/a43e3a0f-b432-4275-9e93-b6b0c67d368d
+image: https://github.com/user-attachments/assets/a43e3a0f-b432-4275-9e93-b6b0c67d368d
 ---
 
 # Self Learning - You Too Can Do It

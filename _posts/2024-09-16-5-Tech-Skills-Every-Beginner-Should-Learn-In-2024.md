@@ -4,6 +4,7 @@ date: 2024-09-16
 author: Amarachi Okoronkwo
 description: 5 Must-Learn Tech Skills for Every Beginner in 2024
 image: https://github.com/user-attachments/assets/911573a2-0bd2-404b-8f69-37702c1976c8
+image: https://github.com/user-attachments/assets/911573a2-0bd2-404b-8f69-37702c1976c8
 ---
 # 5 Tech Skills Every Beginner Should Learn in 2024
 
