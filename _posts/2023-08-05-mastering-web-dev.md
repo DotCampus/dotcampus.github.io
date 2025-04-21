@@ -16,7 +16,7 @@ image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0
 
 Since I started mentoring and guiding people in their quest to learn software engineering, I have encountered a lot of people at different stages in the learning journey, and I have learnt to tailor the support I give to each person according to where they are in their journey. But whenever I meet an absolute beginner (someone with zero experience), I do the exact same thing every time - introduce them to web development.
 
-The truth is, in today's digital age, web development has become an essential skill that can open up a plethora of opportunities for anybody seeking a career in the tech industry. Web development involves the creation and maintenance of websites, web applications, and other digital products. So I always ensure that my learners learn the skills at the earliest stage of their learning journey. By showcasing their ability to acquire web development skills, such a person, positions themselves more fably to delve further into software engineering.
+The truth is, in today's digital age, web development has become an essential skill that can open up a plethora of opportunities for anybody seeking a career in the tech industry. Web development involves the creation and maintenance of websites, web applications, and other digital products. So I always ensure that my learners learn the skills at the earliest stage of their learning journey. By showcasing their ability to acquire web development skills, such a person, positions themselves more favourably to delve further into software engineering.
 
 ## Why Web Development?
 
