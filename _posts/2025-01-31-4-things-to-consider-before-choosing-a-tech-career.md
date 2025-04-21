@@ -4,7 +4,6 @@ date: 2025-01-31
 author: Theo Okafor
 description: Are you considering a tech career, but you do not know which one to go for? Here are 4 things to consider before you make a decision.
 image: https://github.com/user-attachments/assets/fd1799a7-e3ef-411d-b7ac-e12bed5e1456
-image: https://github.com/user-attachments/assets/fd1799a7-e3ef-411d-b7ac-e12bed5e1456
 ---
 
 # 4 Things to Consider Before Choosing a Tech Career Path (in 2025)

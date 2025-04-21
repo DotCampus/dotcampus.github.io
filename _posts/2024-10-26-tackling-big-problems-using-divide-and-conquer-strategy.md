@@ -4,7 +4,6 @@ date: 2024-10-26
 author: Theo Okafor
 description: Using divide and conquer strategy to tackle challenging problems
 image: https://github.com/user-attachments/assets/44ebf634-53e2-42b8-ba5b-4a8d7c897f75
-image: https://github.com/user-attachments/assets/44ebf634-53e2-42b8-ba5b-4a8d7c897f75
 ---
 
 # Tackling Big Problems Using Divide and Conquer
