@@ -1,6 +1,6 @@
 ---
 title: "Mastering Web Development: Your Gateway to the Tech World"
-date: "2023-08-05"
+date: 2023-08-05
 author: Theo Okafor
 description: Mastering web development can provide individuals with a gateway to the tech world, offering numerous career opportunities and a chance to make a positive impact on the digital landscape.
 image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
@@ -20,7 +20,7 @@ The truth is, in today's digital age, web development has become an essential sk
 
 ## Why Web Development?
 
-Web development holds the key to unlocking boundless opportunities in the ever-evolving tech industry. It stands as the bedrock, the very essence that breathes life into the digital landscape, empowering us to create and maintain dynamic websites and cutting-edge web applications that shape our modern world. In today's interconnected reality, the web is not just a convenience; it has become an indispensable part of our daily lives, transcending borders and cultures to connect people, businesses, and ideas on a global scale. I firmly believe that anyone aspiring to build, design, or manage computer software products should not only recognise the significance of the web but embrace the intricate technologies that fuel its magic.
+Web development holds the key to unlocking boundless opportunities in the ever-evolving tech industry. It stands as the bedrock, the very essence that breathes life into the digital landscape, empowering us to create and maintain dynamic websites and cutting-edge web applications that shape our modern world. In today's interconnected reality, the web is not just a convenience; it has become an indispensable part of our daily lives, transcending borders and cultures to connect people, businesses, and ideas on a global scale. I firmly believe that anyone aspiring to build, design, or manage computer software products should not only recognize the significance of the web but embrace the intricate technologies that fuel its magic.
 
 ## Mastering web development
 

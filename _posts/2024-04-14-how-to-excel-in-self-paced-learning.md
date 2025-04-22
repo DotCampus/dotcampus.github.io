@@ -1,6 +1,6 @@
 ---
 title: "How to Excel in Self-Paced Learning "
-date: "2024-04-14"
+date: 2024-04-14
 author: Bashirat Sulyman
 description: Self-paced learning is a modern way of education that allows individuals to learn new skills at their own pace without a traditional classroom. Learn how to make it work for you.
 image: https://github.com/DotCampus/dotcampus.github.io/assets/140621895/c59ea376-be0a-4543-a74d-1a75a998a4ea

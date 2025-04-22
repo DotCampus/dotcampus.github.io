@@ -1,6 +1,6 @@
 ---
 title: "Which Laptop Should I Buy for Coding and Learning Tech?"
-date: "2024-10-30"
+date: 2024-10-30
 author: Theo Okafor
 description: Learn some of the things to consider before buying a used laptop (new laptops too)
 image: https://github.com/user-attachments/assets/5523a1e0-4751-4e22-9783-a3b238361af0

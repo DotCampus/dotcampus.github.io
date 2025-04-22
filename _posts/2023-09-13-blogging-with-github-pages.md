@@ -1,6 +1,6 @@
 ---
 title: "Creating Your Blog with GitHub Pages For Free: A Non-Technical Guide"
-date: "2023-09-13"
+date: 2023-09-13
 author: Theo Okafor
 description: This beginner-friendly guide compares GitHub Pages and WordPress, and provides step-by-step instructions for setting up your GitHub Pages blog, updating the Jekyll config, publishing your blog content, and routing your blog to a custom domain. Customising your blog's layouts and views is also covered for those with a technical background.
 image: 

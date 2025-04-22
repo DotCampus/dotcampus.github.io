@@ -1,6 +1,6 @@
 ---
 title: "The Role of SQL and Python in Data Analytics"
-date: "2023-08-16"
+date: 2023-08-16
 author: Theo Okafor
 description: In the age of information, understanding the intricacies of data analytics is paramount. This article provides a comprehensive overview for budding data analysts, software developers, and tech enthusiasts. We'll unravel the significance of SQL and Python in the realm of data analytics, covering the basics, applications, and the best resources for learning.
 ---

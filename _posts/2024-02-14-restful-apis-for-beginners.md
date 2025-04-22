@@ -1,6 +1,6 @@
 ---
 title: "REST API For Beginners"
-date: "2024-02-14"
+date: 2024-02-14
 author: Rita-Maria Oladokun
 description: This post introduces the concept of REST APIs to beginners using a coffee shop analogy.
 image: https://images.unsplash.com/photo-1513267048331-5611cad62e41?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZmZlZSUyMHNob3B8ZW58MHx8MHx8fDA%3D
