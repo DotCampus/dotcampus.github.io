@@ -1,10 +1,11 @@
 ---
 title: “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
-date: 2025--07-14
-author: Dot Campus Admin
+date: 2025-07-14
+author: Judith Okafor
 description: Meet Fortune, a budding Frontend Engineer, as he shares his early struggles with learning tech alone, how Dot Campus gave him structure, and the small wins that keep him going.
 ---
-## “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
+
+# “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
 
 **Bash:** Hi Hi, good to have you with us. 
 
