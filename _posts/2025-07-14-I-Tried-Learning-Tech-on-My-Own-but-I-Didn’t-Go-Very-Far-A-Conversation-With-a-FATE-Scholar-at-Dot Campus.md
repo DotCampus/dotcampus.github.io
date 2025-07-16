@@ -1,8 +1,8 @@
 ---
-title: “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
-date: 2025-07-14
-author: Judith Okafor
-description: Meet Fortune, a budding Frontend Engineer, as he shares his early struggles with learning tech alone, how Dot Campus gave him structure, and the small wins that keep him going.
+Title: “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
+Date: 2025-07-16
+Editor: Judith Okafor
+Description: Meet Fortune, a budding Frontend Engineer, as he shares his early struggles with learning tech alone, how Dot Campus gave him structure, and the small wins that keep him going.
 ---
 
 # “I Tried Learning Tech on My Own but I Didn’t Go Very Far” —  A Conversation With a FATE Scholar at Dot Campus.
@@ -27,7 +27,7 @@ Errm… you’re studying Electrical Engineering…So I’d like to know - What 
 
 **Fortune:**  Okay. 
 
-Actually, my journey into Front-End (and tech in general) wasn’t exactly intentional. Since I was little, I’ve always had this desire to know how things work, but I didn’t really know much about tech until a friend of mine at a tutorial back then, who knew more about it, introduced me to HTML and CSS. I wrote my first “Hello world” and it got really interesting after that. The thrill of finding that I could make a change on the browser from my little editor space.   
+Actually, my journey into Front-End Engineering(and tech in general) wasn’t exactly intentional. Since I was little, I’ve always had this desire to know how things work, but I didn’t really know much about tech until a friend of mine at a tutorial back then, who knew more about it, introduced me to HTML and CSS. I wrote my first “Hello world” and it got really interesting after that. The thrill of finding that I could make a change on the browser from my little editor space.   
   
 As for why now, I’d say, it’s a high-growth industry that provides the platform to create and solve actual problems in the society, plus – I enjoy it.
   
@@ -37,6 +37,9 @@ As for why now, I’d say, it’s a high-growth industry that provides the platf
 
 **Bash:** *(Smiles)*...More like it.
 
+![Profile](https://github.com/user-attachments/assets/ab6ef222-78bc-4a98-b695-99d13b64a954)
+<sub>*Fortune, the Church fellowship Bro.*</sub>
+
 **Judith:** Have you ever tried learning a tech course before Dot campus—What was your experience like and how is it different this time?   
   
 **Fortune:** Yes, I have. 
@@ -45,11 +48,6 @@ After I wrote my first “Hello World” and got really interested, I tried lear
 
 
 Dot Campus came at a very crucial time. I had gotten flexible with HTML and CSS and had just begun learning JavaScript and didn’t know the best order to go about it. The course outline, which is really very detailed, helped me structure my learning unlike I had ever done before.
-
-
-![Profile](https://github.com/user-attachments/assets/ab6ef222-78bc-4a98-b695-99d13b64a954)
-                                        <sub>*Fortune, the Church fellowship Bro.*</sub>
-
 
 **Judith:** Great…We like to hear that. 
 
@@ -92,7 +90,7 @@ What’s one thing you now understand about tech that you didn’t before starti
 **Fortune:** Haha 😅😅😅 thank you, thank you. 
 
 ![IMG_3436](https://github.com/user-attachments/assets/0d07809e-f5e3-4d59-b3a9-635cb4a855d9)
-                                <sub>*Fortune, the Tech Bro.*</sub>
+                         <sub>*Fortune, the Tech Bro.*</sub>
 
 **Judith:** 😊 So…If someone is just starting out like you, what’s one piece of advice you'd give them?   
   
@@ -126,6 +124,8 @@ Is there any favorite part of the Live Retro sessions?  What stood out to you?
 
 Thank you for that, Fortune. 
 
+![IMG_20250716_170101](https://github.com/user-attachments/assets/b1b5e48c-4a70-4cba-a65c-53f350c1582c)
+
 **Bash:**  What’s one thing you’re looking forward to learning or doing next in your course?  
 
 
@@ -155,9 +155,7 @@ That’ll be all for this conversation. It was really great getting to know and 
 
 ……………………………
 
-**Bash:** Don’t stop learning. We are always rooting for you. 
-
-Thank you once again for coming!
+**Bash:** Don’t stop learning and thank you once again for coming!
 
 **Fortune:**  Thank you too. I really do appreciate this and thank you to Dot Campus. 
 
