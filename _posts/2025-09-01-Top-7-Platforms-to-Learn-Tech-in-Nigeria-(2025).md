@@ -110,19 +110,20 @@ Learning with Dot Campus mentors makes you more employable and entrepreneurial w
 You can find a course for you, whether you’re a student trying your hand at new things or a career professional looking to upskill or pivot to a new industry. 
 
 Dot Campus Core Benefits:
-- Access to global-standard tech and entrepreneurship programs.
+- Learn at your own time with a personal mentor or tutor
+- Access to global-standard tech programs.
 - Gamified learning with the interactive [SkillBridge](skillbridge.dotcampus.co) platform.
-- Recognized by GitHub, JetBrains, etc.
-- Strong focus on employability and startups.
-- Community-driven ecosystem for collaboration.
+- GitHub Schools Partnership with several free perks for learners (worth up to $500).
+- Strong focus on employability and tech competence.
+- Engaging learning community
 - Digital inclusion for underserved learners.
-- Mentor-driven learning and self-paced tuition.
+- Mentor-driven learning and self-paced.
 
 Dot Campus Pricing:
 - Many free or subsidized programs.
-- Free course auditing
-- Available scholarships for self-taught learners.
-- Paid programs range from ₦20,000 to ₦64,000 (~$7.5 to $50 ) depending on the course.
+- Free course auditing.
+- Available scholarships for self-paced learners.
+- Paid programs range from ₦7,500 to ₦64,000 (~$5 to $50) depending on the delivery mode.
 
 # 6. Coursera
 
