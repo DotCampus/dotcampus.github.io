@@ -110,12 +110,12 @@ Learning with Dot Campus mentors makes you more employable and entrepreneurial w
 You can find a course for you, whether you’re a student trying your hand at new things or a career professional looking to upskill or pivot to a new industry. 
 
 Dot Campus Core Benefits:
-- Learn at your own time with a personal mentor or tutor
+- Learn at your own time with a personal mentor or tutor.
 - Access to global-standard tech programs.
 - Gamified learning with the interactive [SkillBridge](skillbridge.dotcampus.co) platform.
 - GitHub Schools Partnership with several free perks for learners (worth up to $500).
 - Strong focus on employability and tech competence.
-- Engaging learning community
+- Engaging learning community.
 - Digital inclusion for underserved learners.
 - Mentor-driven learning and self-paced.
 
@@ -137,8 +137,8 @@ On Coursera, you can take courses from Google, IBM, MIT, and Stanford, which can
 
 Coursera Core Benefits:
 - Globally recognized certifications.
-- 1000+ available courses in the library
-- Flexibility to audit courses for free
+- 1000+ available courses in the library.
+- Flexibility to audit courses for free.
 - Courses from top universities and tech companies.
 - Self-paced learning with community interactions.
 - Professional Certificates tailored to job readiness.
