@@ -151,7 +151,7 @@ Coursera Pricing:
 # 7. freeCodeCamp 
 
 
-[image](https://github.com/user-attachments/assets/59702b09-6778-478e-9504-bbaa585c8d38)
+![freeCodeCamp homepage screenshot](https://github.com/user-attachments/assets/59702b09-6778-478e-9504-bbaa585c8d38)
 
 As the name suggests, [freeCodeCamp](https://www.freecodecamp.org) is a completely free, project-based platform for absolute beginners and intermediate learners who want to learn coding on their own. 
 
