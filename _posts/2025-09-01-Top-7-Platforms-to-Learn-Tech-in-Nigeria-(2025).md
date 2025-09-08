@@ -17,7 +17,7 @@ Here are the top 10 platforms to learn tech in Nigeria. We also go ahead to cove
 
 # 1. ALX Africa
 
-[image](https://github.com/user-attachments/assets/60c50b86-81a6-4a4d-9b6f-ca942a6903a6)
+![ALX Africa homepage screenshot](https://github.com/user-attachments/assets/60c50b86-81a6-4a4d-9b6f-ca942a6903a6)
 
 [ALX](alxafrica.com) offers project-based programs in software engineering, data analytics, and [content creation](https://roninpoint.com/services/professional-content-strategy/). The company’s primary focus is to provide a global tech ecosystem with mentorship, peer-to-peer collaboration, and career support. 
 
