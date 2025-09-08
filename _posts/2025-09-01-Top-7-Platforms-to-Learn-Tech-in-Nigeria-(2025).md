@@ -55,7 +55,7 @@ Andela Pricing:
 
 # 3. AltSchool Africa
 
-[image](https://github.com/user-attachments/assets/d0b5b29f-e0f4-421a-b93e-921e59b5a404)
+[AltSchool Africa homepage screenshot](https://github.com/user-attachments/assets/d0b5b29f-e0f4-421a-b93e-921e59b5a404)
 
 [AltSchool](https://altschoolafrica.com/) calls itself “the school for those who want more out of life.” Regardless of what that actually means, students at AltSchool can earn diplomas in coding, cybersecurity, and product management. 
 
