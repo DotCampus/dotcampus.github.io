@@ -99,7 +99,7 @@ You can find detailed pricing information for your specific course by contacting
 
 # 5. Dot Campus
 
-[image](https://github.com/user-attachments/assets/3ce38caa-8937-4b99-8fd6-bf19388b6476)
+[Dot Campus homepage screenshot](https://github.com/user-attachments/assets/3ce38caa-8937-4b99-8fd6-bf19388b6476)
 
 [Dot Campus](dotcampus.co) is a digital campus that provides an ecosystem for learners to acquire knowledge, learn from experts, and prepare for the workforce. 
 
