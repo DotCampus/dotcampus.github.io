@@ -127,7 +127,7 @@ Dot Campus Pricing:
 
 # 6. Coursera
 
-[Coursera homepage screenshot](https://github.com/user-attachments/assets/8bc68403-df8d-4326-936a-b3e551ce9f7d)
+![Coursera homepage screenshot](https://github.com/user-attachments/assets/8bc68403-df8d-4326-936a-b3e551ce9f7d)
 
 [Coursera](https://www.coursera.org) brings the world’s best universities and companies to your screen, offering professional certificates, specializations, and even full degrees. 
 
