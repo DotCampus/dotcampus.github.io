@@ -74,7 +74,7 @@ AltSchool Pricing:
 
 # 4. Utiva
 
-[Utiva homepage screenshot](https://github.com/user-attachments/assets/683ff6a9-74b0-45b5-a485-d84e1a74f78e)
+![Utiva homepage screenshot](https://github.com/user-attachments/assets/683ff6a9-74b0-45b5-a485-d84e1a74f78e)
 
 [Utiva](https://www.utiva.io/) is a Nigerian startup that hosts bootcamps and mentorship programs for people going into programming, web development, cybersecurity, data analytics, and product marketing. 
 
