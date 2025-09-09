@@ -35,7 +35,7 @@ ALX Africa Pricing:
 
 # 2. Andela Learning Community (ALC)
 
-[Andela Learning Community homepage screenshot](https://github.com/user-attachments/assets/98a52183-aa68-4fed-b7ad-171e2c9b9d41)
+![Andela Learning Community homepage screenshot](https://github.com/user-attachments/assets/98a52183-aa68-4fed-b7ad-171e2c9b9d41)
 
 [Andela’s](andela.com) Learning Community has helped thousands of Africans break into software engineering. That’s why it remains one of the most sought-after tech programs on the continent. 
 
