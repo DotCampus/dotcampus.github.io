@@ -2,7 +2,7 @@
 title: "Top 7 Platforms to Learn Tech in Nigeria (2025)"
 date: 2025-09-01
 publisher: Judith Okafor
-description: Top 7 Platforms to Learn Tech in Nigeria (2025)
+description: "Top 7 Platforms to Learn Tech in Nigeria (2025)"
 ---
 
 # Top 7 Platforms to Learn Tech in Nigeria (2025)
