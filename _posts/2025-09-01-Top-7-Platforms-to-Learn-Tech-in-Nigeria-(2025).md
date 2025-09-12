@@ -1,8 +1,8 @@
 ---
-Title: Top 7 Platforms to Learn Tech in Nigeria (2025)
-Date: 2025-09-01
-Publisher: Judith Okafor
-Description: Top 7 Platforms to Learn Tech in Nigeria (2025)
+title: "Top 7 Platforms to Learn Tech in Nigeria (2025)"
+date: 2025-09-01
+author: Ugo Ezenduka
+description: "Top 7 Platforms to Learn Tech in Nigeria (2025)"
 ---
 
 # Top 7 Platforms to Learn Tech in Nigeria (2025)
@@ -17,7 +17,7 @@ Here are the top 10 platforms to learn tech in Nigeria. We also go ahead to cove
 
 # 1. ALX Africa
 
-<img width="1890" height="794" alt="image" src="https://github.com/user-attachments/assets/60c50b86-81a6-4a4d-9b6f-ca942a6903a6" />
+![ALX Africa homepage screenshot](https://github.com/user-attachments/assets/60c50b86-81a6-4a4d-9b6f-ca942a6903a6)
 
 [ALX](alxafrica.com) offers project-based programs in software engineering, data analytics, and [content creation](https://roninpoint.com/services/professional-content-strategy/). The company’s primary focus is to provide a global tech ecosystem with mentorship, peer-to-peer collaboration, and career support. 
 
@@ -35,7 +35,7 @@ ALX Africa Pricing:
 
 # 2. Andela Learning Community (ALC)
 
-<img width="1896" height="827" alt="image" src="https://github.com/user-attachments/assets/98a52183-aa68-4fed-b7ad-171e2c9b9d41" />
+![Andela Learning Community homepage screenshot](https://github.com/user-attachments/assets/98a52183-aa68-4fed-b7ad-171e2c9b9d41)
 
 [Andela’s](andela.com) Learning Community has helped thousands of Africans break into software engineering. That’s why it remains one of the most sought-after tech programs on the continent. 
 
@@ -55,7 +55,7 @@ Andela Pricing:
 
 # 3. AltSchool Africa
 
-<img width="1850" height="828" alt="image" src="https://github.com/user-attachments/assets/d0b5b29f-e0f4-421a-b93e-921e59b5a404" />
+![AltSchool Africa homepage screenshot](https://github.com/user-attachments/assets/d0b5b29f-e0f4-421a-b93e-921e59b5a404)
 
 [AltSchool](https://altschoolafrica.com/) calls itself “the school for those who want more out of life.” Regardless of what that actually means, students at AltSchool can earn diplomas in coding, cybersecurity, and product management. 
 
@@ -74,7 +74,7 @@ AltSchool Pricing:
 
 # 4. Utiva
 
-<img width="1893" height="820" alt="image" src="https://github.com/user-attachments/assets/683ff6a9-74b0-45b5-a485-d84e1a74f78e" />
+![Utiva homepage screenshot](https://github.com/user-attachments/assets/683ff6a9-74b0-45b5-a485-d84e1a74f78e)
 
 [Utiva](https://www.utiva.io/) is a Nigerian startup that hosts bootcamps and mentorship programs for people going into programming, web development, cybersecurity, data analytics, and product marketing. 
 
@@ -99,7 +99,7 @@ You can find detailed pricing information for your specific course by contacting
 
 # 5. Dot Campus
 
-<img width="1829" height="819" alt="image" src="https://github.com/user-attachments/assets/3ce38caa-8937-4b99-8fd6-bf19388b6476" />
+![Dot Campus homepage screenshot](https://github.com/user-attachments/assets/3ce38caa-8937-4b99-8fd6-bf19388b6476)
 
 [Dot Campus](dotcampus.co) is a digital campus that provides an ecosystem for learners to acquire knowledge, learn from experts, and prepare for the workforce. 
 
@@ -127,7 +127,7 @@ Dot Campus Pricing:
 
 # 6. Coursera
 
-<img width="1640" height="824" alt="image" src="https://github.com/user-attachments/assets/8bc68403-df8d-4326-936a-b3e551ce9f7d" />
+![Coursera homepage screenshot](https://github.com/user-attachments/assets/8bc68403-df8d-4326-936a-b3e551ce9f7d)
 
 [Coursera](https://www.coursera.org) brings the world’s best universities and companies to your screen, offering professional certificates, specializations, and even full degrees. 
 
@@ -151,7 +151,7 @@ Coursera Pricing:
 # 7. freeCodeCamp 
 
 
-<img width="1897" height="817" alt="image" src="https://github.com/user-attachments/assets/59702b09-6778-478e-9504-bbaa585c8d38" />
+![freeCodeCamp homepage screenshot](https://github.com/user-attachments/assets/59702b09-6778-478e-9504-bbaa585c8d38)
 
 As the name suggests, [freeCodeCamp](https://www.freecodecamp.org) is a completely free, project-based platform for absolute beginners and intermediate learners who want to learn coding on their own. 
 
