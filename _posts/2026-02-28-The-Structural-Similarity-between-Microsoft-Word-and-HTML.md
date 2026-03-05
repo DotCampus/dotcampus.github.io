@@ -3,10 +3,12 @@ title: "The Structural Similarity between Microsoft Word and HTML"
 date: 2026-02-28
 author: Bashirat Sulyman
 description: "The Structural Similarity between Microsoft Word and HTML"
-image: https://github.com/DotCampus/dotcampus.github.io/assets/images/IMG-20260228-WA0006.jpg
+image: "https://github.com/user-attachments/assets/558452c3-1653-465f-aa33-0947f68e8b39"
+
 
 ---
-![image](/assets/images/IMG-20260228-WA0006.jpg)
+<img width="700" height="467" alt="Html vs Word" src="https://github.com/user-attachments/assets/7bbd9cf8-4a62-4daf-9e36-2cf505913609" />
+
 I recently started working more deeply with Microsoft Word, not at the surface level of typing and formatting, but at the level of structure: styles, headings, bookmarks, cross-references, and section management.
 
 In doing so, I noticed a pattern that is easy to overlook if Word is treated purely as a writing tool.
@@ -107,6 +109,3 @@ Simply put:
 > HTML does.
 
 But the underlying logic is remarkably similar. Recognizing this changes how both tools are used and how their users are trained.
-
-```
-
