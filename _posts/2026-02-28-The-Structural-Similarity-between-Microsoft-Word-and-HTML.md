@@ -12,8 +12,7 @@ image: "https://github.com/user-attachments/assets/558452c3-1653-465f-aa33-0947f
 I recently started working more deeply with Microsoft Word, not at the surface level of typing and formatting, but at the level of structure: styles, headings, bookmarks, cross-references, and section management.
 
 In doing so, I noticed a pattern that is easy to overlook if Word is treated purely as a writing tool.
-
-Microsoft Word operates on principles that are strikingly similar to HTML.
+*Microsoft Word operates on principles that are strikingly similar to HTML.*
 
 I am not claiming influence in a historical sense. I am simply pointing out shared design logic. Both systems are fundamentally markup-based. They are concerned less with how content looks and more with what that content represents within a document.
 
@@ -105,7 +104,7 @@ Core HTML concepts such as:
 already exist in Word. They are simply presented through a graphical interface instead of explicit markup. In this sense, Microsoft Word and HTML are not opposites. They are parallel systems designed to solve the same problem in different environments.
 
 Simply put:
-> Microsoft Word does not expose its markup.
-> HTML does.
+> **Microsoft Word does not expose its markup.**
+> **HTML does**.
 
 But the underlying logic is remarkably similar. Recognizing this changes how both tools are used and how their users are trained.
